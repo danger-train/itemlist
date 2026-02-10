@@ -36,12 +36,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "OskarPotocki, Atlas, Kikohi, Sarg and Sokyran",
     "name": "Vanilla Furniture Expanded",
     "steamId": "1718190143",
@@ -423,7 +417,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
+    "version": "1.12.23+8829db0b2029935b0c95dd7b2eb8bd619a093f34"
   },
   {
     "author": "Taranchuk",
