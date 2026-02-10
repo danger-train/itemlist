@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -62,7 +52,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +72,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
@@ -111,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 275,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
@@ -127,7 +112,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -148,12 +133,7 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -166,23 +146,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -191,34 +161,29 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 3000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
-		"price": 2000,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 4000,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
 		"price": 5000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -241,17 +206,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "levelskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
 	},
@@ -287,32 +242,12 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
 		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 1200,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -341,5 +276,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 55
 }
